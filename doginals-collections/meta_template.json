@@ -1,0 +1,19 @@
+{
+    "name": "",
+    "description": "",
+    "avatar": "",
+    "tags": [],
+    "socials": {
+        "x": "",
+        "discord": "",
+        "youtube": "",
+        "github": "",
+        "website": ""
+    },
+    "sat_range":
+    {
+        "min": 0,
+        "max": 0
+    },
+    "inscription_ids": []
+}
